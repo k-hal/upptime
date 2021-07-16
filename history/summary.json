@@ -22,19 +22,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 219,
-    "timeWeek": 220,
-    "timeMonth": 229,
+    "timeDay": 271,
+    "timeWeek": 233,
+    "timeMonth": 232,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2021-07-16": 0
+      "2021-07-16": 10
     }
   },
   {
