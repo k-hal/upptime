@@ -42,7 +42,7 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 352,
     "timeMonth": 345,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 0
+    }
   },
   {
     "name": "Broken Site",
